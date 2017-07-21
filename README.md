@@ -1,4 +1,4 @@
-# Gillespie_Allee
+# Stochastic_Allee
 Simulation of Population model with Allee Effect (Matlab).
 
 These files were created for academic research performed under the supervision of Dr. Eric Forgoston at Montclair State University, Department of Mathematical Sciences.
